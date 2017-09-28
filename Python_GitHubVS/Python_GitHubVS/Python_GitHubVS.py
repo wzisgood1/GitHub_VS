@@ -23,3 +23,4 @@ print("Is it true that 3 + 2 < 5 - 7?")
 print(3 + 2 < 5 - 7)
 
 # End of Exercise 3
+# Add new comment for Exercise 3
