@@ -1,4 +1,4 @@
 # GitHub_VS
-GitHub connection in VS 2017
+GitHub connection with Python scripts
 
 Neural Networks and Convolutional Neural Networks
