@@ -1,4 +1,13 @@
 # -*- coding: utf-8 -*-
+"""
+Neural Network and Convolutionary Neural Network
+Python script from LinkedIn Learning
+"""
+
+# pip install keras          # to install package of keras
+# pip install tensorflow     # to install package of tensorflow
+# python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+
 from keras.datasets import mnist
 from keras.preprocessing.image import load_img, array_to_img
 from keras.utils.np_utils import to_categorical
